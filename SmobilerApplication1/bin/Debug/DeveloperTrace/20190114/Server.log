@@ -1,0 +1,20 @@
+2019/01/14 08:38:36 [Server] Starting 
+2019/01/14 08:38:36 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\
+        DefaultImagePath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Media
+        DefaultWebPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Web
+ 
+2019/01/14 08:38:36 [Server] Started 
+2019/01/14 08:38:36 [AutoSet] Start 
+2019/01/14 08:38:57 [Server] Stoping 
+2019/01/14 08:38:57 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2019/01/14 08:39:02 [Purging-EX] 正在中止线程。 
+2019/01/14 08:39:02 [Server] Stoped 
+2019/01/14 08:39:02 [AutoSet] Stop 
+2019/01/14 08:39:02 [Server] Stoping 
+2019/01/14 08:39:02 [Server] Stoped 
