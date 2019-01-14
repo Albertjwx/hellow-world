@@ -18,3 +18,31 @@
 2019/01/14 08:39:02 [AutoSet] Stop 
 2019/01/14 08:39:02 [Server] Stoping 
 2019/01/14 08:39:02 [Server] Stoped 
+2019/01/14 08:44:49 [Server] Starting 
+2019/01/14 08:44:49 [Initial] Version: 460.1540354032, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, MirrorPatternMaxVerifyTimes: 3, RelativeScreen: True, TextFontScaling: True, IsSysLog: False
+        BasePath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\
+        DefaultImagePath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Media
+        DefaultWebPath: E:\clone\hellow-world\SmobilerApplication1\bin\Debug\Resources\Web
+ 
+2019/01/14 08:44:49 [Server] Started 
+2019/01/14 08:44:49 [AutoSet] Start 
+2019/01/14 08:45:54 [192.168.0.162:59017] ClientAccept 
+2019/01/14 08:45:54 [192.168.0.162:59017] Client HandShake 
+2019/01/14 08:45:54 [A0000056B6B7A4] STTP-NewClient 
+2019/01/14 08:45:54 [192.168.0.162-A0000056B6B7A4] {"deviceOS":"Android","deviceOSVersion":"7.1.1","deviceModel":"NX563J","screenSize":{"width":1080,"height":1920},"density":3.0,"version":"4.6.0","coreVersion":"4.6.0","autoBuild":false,"isCompany":true} 
+2019/01/14 08:45:54 [A0000056B6B7A4] OnStart-Starting with NewClient -  
+2019/01/14 08:45:54 [A0000056B6B7A4] Show-SmobilerForm1 
+2019/01/14 08:45:54 [A0000056B6B7A4] OnStart-Started with NewClient 
+2019/01/14 08:46:17 [Server] Stoping 
+2019/01/14 08:46:17 [A0000056B6B7A4] OnStop-Stoping-StopServer-True-- 
+2019/01/14 08:46:17 [TcpAccept-EX] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2019/01/14 08:46:17 [A0000056B6B7A4] OnStop-Stoped 
+2019/01/14 08:46:17 [Server] Stoped 
+2019/01/14 08:46:17 [AutoSet] Stop 
+2019/01/14 08:46:17 [Server] Stoping 
+2019/01/14 08:46:17 [Server] Stoped 
